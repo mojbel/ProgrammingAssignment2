@@ -1,3 +1,6 @@
+SHA-1
+2dccdb040126a2291767950d2cd112e276fd47ba
+
 ### Introduction
 
 This second programming assignment will require you to write an R
